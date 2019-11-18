@@ -12,7 +12,7 @@ minima:
   date_format: "%d. %b. %Y"
 
   social_links:
-    - rss: rss
+    rss: rss
 
 header_pages:
  - search.html
