@@ -1,9 +1,8 @@
 title: WT-Stats
 author: celebhen
-email: "&nbsp;"
 
 description: >
-  WT-Stats analysiert und veranschaulicht Abstimmungsdaten von WahreTabelle.de
+  WT-Stats analysiert Abstimmungsdaten und erhöht die Transparenz des Projekt WahreTabelle.de und seiner Nutzer.
 
 show_excerpts: true
 
@@ -22,3 +21,4 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-paginate
+ - jekyll-seo-tag
