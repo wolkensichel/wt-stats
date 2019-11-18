@@ -1,2 +1,15 @@
-theme: minima
+
+description: >
+  WT-Stats analysiert die für Nutzer öffentlich zugänglichen Daten von WahreTabelle.de. Ziel der Seite ist die Transparenz des zugrundeliegenden Projektes mithilfe der zur Verfügung stehenden Daten zu verbessern und damit eine sachliche Diskussionsgrundlage für die handelnden Nutzer von WahreTabelle.de zu schaffen. 
+
 show_excerpts: true
+
+minima:
+  social_links:
+    rss: rss
+
+header_pages:
+ - search.html
+ - about.html
+
+theme: minima
