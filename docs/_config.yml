@@ -1,5 +1,6 @@
 title: WT-Stats
 author: celebhen
+email: &nbsp;
 
 description: >
   WT-Stats analysiert und veranschaulicht Abstimmungsdaten von WahreTabelle.de
@@ -20,3 +21,4 @@ theme: minima
 
 plugins:
  - jekyll-feed
+ - jekyll-paginate
