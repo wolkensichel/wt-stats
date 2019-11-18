@@ -1,3 +1,5 @@
+theme: minima
+
 title: WT-Stats
 author: celebhen
 
@@ -15,8 +17,6 @@ minima:
 header_pages:
  - search.html
  - about.html
-
-theme: minima
 
 plugins:
  - jekyll-feed
